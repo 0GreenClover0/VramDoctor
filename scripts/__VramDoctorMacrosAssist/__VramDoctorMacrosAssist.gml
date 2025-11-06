@@ -10,6 +10,6 @@
 #macro font_add __VramDoctorFontAdd
 #macro surface_create __VramDoctorSurfaceCreate
 #macro sprite_add __VramDoctorSpriteAdd
-#macro sprite_create_from_surface VramDoctorSpriteCreateFromSurface
+#macro sprite_create_from_surface __VramDoctorSpriteCreateFromSurface
 #macro vertex_delete_buffer __VramDoctorVertexDelete
 #macro vertex_freeze __VramDoctorVertexFreeze
